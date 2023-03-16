@@ -1,5 +1,5 @@
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "https://fastly.jsdelivr.net/gh/Garrukzijian/live2d-widget@2.0/";
+const live2d_path = "https://fastly.jsdelivr.net/gh/Garrukzijian/live2d-widget@2.2/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
@@ -41,7 +41,7 @@ if (screen.width >= 768) {
 	});
 }
 
-console.log(`111222
+console.log(`
   く__,.ヘヽ.        /  ,ー､ 〉
            ＼ ', !-─‐-i  /  /´
            ／｀ｰ'       L/／｀ヽ､
