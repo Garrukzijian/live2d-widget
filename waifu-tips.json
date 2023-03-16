@@ -186,7 +186,7 @@
 	}],
 	"seasons": [{
 		"date": "01/01",
-		"text": "<span>New Year’s Day</span> is here, the new year has begun again, this year is {year}~"
+		"text": "<span>New Year's Day</span> is here, the new year has begun again, this year is {year}~"
 	}, {
 		"date": "02/14",
 		"text": "It's another <span>Valentine's Day</span>, did you find someone in {year}~"
